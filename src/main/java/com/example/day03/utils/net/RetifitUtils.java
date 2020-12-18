@@ -1,8 +1,5 @@
-package com.example.day03.base;
+package com.example.day03.utils.net;
 
-import com.example.day03.net.ApiServices;
-import com.example.day03.net.MyCallBack;
-import com.example.day03.net.NetWorkInterface;
 import com.google.gson.Gson;
 
 import java.io.IOException;

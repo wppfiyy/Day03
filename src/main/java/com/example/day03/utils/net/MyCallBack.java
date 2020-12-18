@@ -1,4 +1,4 @@
-package com.example.day03.net;
+package com.example.day03.utils.net;
 
 public interface MyCallBack<T> {
     void onSuccess(T t);

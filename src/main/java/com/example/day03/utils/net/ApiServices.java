@@ -1,4 +1,4 @@
-package com.example.day03.net;
+package com.example.day03.utils.net;
 
 import io.reactivex.Observable;
 import okhttp3.ResponseBody;

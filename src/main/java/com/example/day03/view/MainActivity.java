@@ -1,10 +1,11 @@
-package com.example.day03;
+package com.example.day03.view;
 
 import androidx.recyclerview.widget.DividerItemDecoration;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.day03.Ben.MyBen;
+import com.example.day03.R;
 import com.example.day03.adapter.MyAdapter;
 import com.example.day03.base.BaseActivity;
 import com.example.day03.constart.MyConstart;
